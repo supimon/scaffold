@@ -45,5 +45,6 @@ setup(name='scaffold',
       entry_points="""\
       [paste.app_factory]
       main = scaffold:main
+      starter2 = starter2:main
       """,
       )

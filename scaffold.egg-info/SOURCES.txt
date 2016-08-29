@@ -19,3 +19,7 @@ scaffold/static/pyramid-16x16.png
 scaffold/static/pyramid.png
 scaffold/static/theme.css
 scaffold/templates/mytemplate.pt
+starter1/__init__.py
+starter2/__init__.py
+starter2/tests.py
+starter2/views.py
